@@ -1,0 +1,85 @@
+{
+  "isStage": false,
+  "name": "Devin",
+  "variables": {},
+  "lists": {},
+  "broadcasts": {},
+  "blocks": {},
+  "comments": {},
+  "currentCostume": 5,
+  "costumes": [
+    {
+      "assetId": "48403b3d17d2ff17804957a7b654ebc7",
+      "name": "zombie_hi",
+      "bitmapResolution": 1,
+      "md5ext": "48403b3d17d2ff17804957a7b654ebc7.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 38.93827978426603,
+      "rotationCenterY": 97.47654447539597
+    },
+    {
+      "assetId": "caf3924da95c275222865a46f35c3426",
+      "name": "zombie_think",
+      "bitmapResolution": 1,
+      "md5ext": "caf3924da95c275222865a46f35c3426.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 39.17512318355668,
+      "rotationCenterY": 97.43839949159373
+    },
+    {
+      "assetId": "f033584c10fadecb98fd1c9a2d77fb48",
+      "name": "zombie_squint",
+      "bitmapResolution": 1,
+      "md5ext": "f033584c10fadecb98fd1c9a2d77fb48.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 31.822068226334665,
+      "rotationCenterY": 97.42313949159373
+    },
+    {
+      "assetId": "31197b931e7de924d3041bb0f4c9cca4",
+      "name": "zombie_walk0",
+      "bitmapResolution": 1,
+      "md5ext": "31197b931e7de924d3041bb0f4c9cca4.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 28.281091676160685,
+      "rotationCenterY": 97.39261974579685
+    },
+    {
+      "assetId": "88adea52755c3e1a3d04b332a96b9cb4",
+      "name": "zombie_walk1",
+      "bitmapResolution": 1,
+      "md5ext": "88adea52755c3e1a3d04b332a96b9cb4.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 28.28110335232128,
+      "rotationCenterY": 98.4634596694469
+    },
+    {
+      "assetId": "22028621b24b17803986878e844d20c9",
+      "name": "zombie_call",
+      "bitmapResolution": 1,
+      "md5ext": "22028621b24b17803986878e844d20c9.svg",
+      "dataFormat": "svg",
+      "rotationCenterX": 40.09435482168769,
+      "rotationCenterY": 97.38498372898437
+    }
+  ],
+  "sounds": [
+    {
+      "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+      "name": "pop",
+      "dataFormat": "wav",
+      "format": "",
+      "rate": 44100,
+      "sampleCount": 1032,
+      "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+    }
+  ],
+  "volume": 100,
+  "visible": true,
+  "x": 82,
+  "y": -18,
+  "size": 100,
+  "direction": 90,
+  "draggable": false,
+  "rotationStyle": "all around"
+}
