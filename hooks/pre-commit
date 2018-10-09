@@ -1,0 +1,9 @@
+#! /bin/bash
+
+echo Pre-commit hook for turning svg/json into Scratch files.
+if [ -f bash_functions.sh ]; then
+    source bash_functions.sh;
+    unpack *;
+    repack *;
+fi;
+

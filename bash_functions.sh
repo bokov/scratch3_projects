@@ -44,3 +44,8 @@ repack(){
     fi;
   done;
 }
+
+# initialize the project git hooks
+projinit(){
+  cp hooks/* .git/hooks/;
+}
