@@ -48,4 +48,6 @@ repack(){
 # initialize the project git hooks
 projinit(){
   cp hooks/* .git/hooks/;
+  repack *;
+  unpack *;
 }
