@@ -251,7 +251,7 @@
           "dataFormat": "wav",
           "format": "",
           "rate": 44100,
-          "sampleCount": 37376,
+          "sampleCount": 169676,
           "md5ext": "b6ad835f17ef09763109b1095c41c866.wav"
         }
       ],
@@ -391,7 +391,7 @@
       "broadcasts": {},
       "blocks": {},
       "comments": {},
-      "currentCostume": 0,
+      "currentCostume": 4,
       "costumes": [
         {
           "assetId": "5e9486ddeeba0004ff788eb8a87a1722",
@@ -461,7 +461,7 @@
       ],
       "volume": 100,
       "layerOrder": 4,
-      "visible": true,
+      "visible": false,
       "x": 82,
       "y": -18,
       "size": 100,
@@ -473,7 +473,7 @@
   "extensions": [],
   "meta": {
     "semver": "3.0.0",
-    "vm": "0.2.0-prerelease.20180925190229",
+    "vm": "0.2.0-prerelease.20181004184717",
     "agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
   }
 }
